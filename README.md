@@ -3,6 +3,7 @@
 <img src="https://github.com/Navani001/Navani001/raw/output/github-snake.svg" alt="Navani001 snake gif" style="max-width: 100%;">
 
 <h3 align="left">Connect with me:</h3>
+https://rohith443.github.io/portfolio/
 <p align="left">
 </p>
 
