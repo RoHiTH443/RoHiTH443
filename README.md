@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Rohith M</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **ChatBot**
-
-- 🌱 I’m currently learning **genAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
