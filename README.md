@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohith M</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img src="https://github.com/Navani001/Navani001/raw/output/github-snake.svg" alt="Navani001 snake gif" style="max-width: 100%;">
 
-<img src="https://github.com/RoHiTH443/RoHiTH443/raw/output/github-snake.svg" alt="RoHiTH443 snake gif" style="max-width: 100%;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
