@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img src="https://github.com/Navani001/Navani001/raw/output/github-snake.svg" alt="Navani001 snake gif" style="max-width: 100%;">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Portfolio:</h3>
 https://rohith443.github.io/portfolio/
 <p align="left">
 </p>
